@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PennyLaneAI/pennylane-sphinx-theme/commit/e9d5dcf0ff6048fbb23e8fb5e28d0628108a7bfa",
       "git:hexsha": "e9d5dcf0ff6048fbb23e8fb5e28d0628108a7bfa",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/PennyLaneAI/pennylane-sphinx-theme/commit/2db15e90245229bb359629f16cd0a5f384054979",
